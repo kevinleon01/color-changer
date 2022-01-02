@@ -1,6 +1,4 @@
 @import url('https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Archivo+Black&family=Fredoka+One&display=swap');
-
 
 html, body {
     height: 100%;
@@ -22,7 +20,7 @@ body {
 }
 
 h1 {
-    font-size: 35px;
+    font-size: .5em;
     text-align: center;
     color: black;
 }
